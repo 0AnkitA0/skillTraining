@@ -1,12 +1,3 @@
 { 
-  "employees" : [   
-    {empID: 13162, firstName: 'Ankit', middleName: '', lastName: 'Anand', dateOfJoin: '07/01/21', totalExp: '', managerEMPID: '1321', emailID: 'ankit.anand546@gmail.com'},
-    {empID: 13160, firstName: 'Vinit', middleName: '', lastName: 'Bansal', dateOfJoin: '07/01/21', totalExp: '', managerEMPID: '1671', emailID: 'bansal.vinit@bridgera.com'},
-    {empID: 13140, firstName: 'Ankita', middleName: '', lastName: 'Acharya', dateOfJoin: '07/01/19', totalExp: '', managerEMPID: '13212', emailID: 'acharya.ankita@gmail.com.com'},
-    {empID: 13161, firstName: 'Ankita', middleName: '', lastName: 'Ghosh', dateOfJoin: '07/01/21', totalExp: '', managerEMPID: '13212', emailID: 'ankit.ghosh@gmail.com'},
-    {empID: 13142, firstName: 'Shambhavee', middleName: '', lastName: 'Jamuar', dateOfJoin: '07/01/21', totalExp: '', managerEMPID: '13212', emailID: 'foo@bar.com'},
-    {empID: 13130, firstName: 'Ritika', middleName: '', lastName: 'Anand', dateOfJoin: '08/01/21', totalExp: '', managerEMPID: '13212', emailID: 'ritika1119@gmail.com'},
-    {empID: 13201, firstName: 'Shreya', middleName: '', lastName: 'Tiwari', dateOfJoin: '09/01/21', totalExp: '', managerEMPID: '13212', emailID: 'ak217421@gmail.com'}
-    
-  ]
+  "employees" : []
 }
